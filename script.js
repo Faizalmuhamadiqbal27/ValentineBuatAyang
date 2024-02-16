@@ -16,10 +16,10 @@ $(document).ready(function(){
   });
 
   $('#card').click(function(){
-    window.location.href = './index.html'; 
+    window.location.href = './index2.html'; 
   });
 
   $(window).on('load', function(){
-    window.location.href = './index2.html';
+    window.location.href = './index.html';
   });
 });
